@@ -1,7 +1,6 @@
 import * as React from "react"
 
 import teamImg1 from "../../images/team/poto.jpeg"
-import teamImg2 from "../../images/team/team-9.jpg"
 import teamImg3 from "../../images/team/team-10.jpg"
 
 const OurTeam = () => {

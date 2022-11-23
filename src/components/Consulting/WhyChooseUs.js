@@ -4,9 +4,6 @@ import { Link } from "gatsby"
 
 import videoThumbImg from "../../images/choose/choose-me.png"
 
-import shapeImg1 from "../../images/choose/choose-shape-3.png"
-import shapeImg2 from "../../images/about/about-shape-3.png"
-
 const WhyChooseUs = () => {
   const [toggler, setToggler] = useState(false)
   return (

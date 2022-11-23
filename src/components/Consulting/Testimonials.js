@@ -4,9 +4,6 @@ import { Pagination, Autoplay } from "swiper"
 
 import shapeBgImg from "../../images/reviews/reviews-shape-1.png"
 
-import clientImg1 from "../../images/reviews/reviews-1.png"
-import clientImg2 from "../../images/reviews/reviews-2.png"
-import clientImg3 from "../../images/reviews/reviews-3.png"
 
 import shape1 from "../../images/about/about-shape-2.png"
 

@@ -3,9 +3,6 @@ import { Link } from "gatsby"
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper";
 
-import portfolioImg1 from "../../images/portfolio/portfolio-5.jpg"
-import portfolioImg2 from "../../images/portfolio/portfolio-6.jpg"
-import portfolioImg3 from "../../images/portfolio/portfolio-7.jpg"
 
 const RecentProjects = () => {
   return (

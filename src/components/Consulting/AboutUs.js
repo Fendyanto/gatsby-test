@@ -3,8 +3,6 @@ import { Link } from "gatsby"
 import { Swiper, SwiperSlide } from "swiper/react"
 import { Navigation, Pagination, Mousewheel } from "swiper"
 
-import aboutImg from "../../images/about/about-img-2.jpg"
-import smileIcon from "../../images/svg-icon/icon-4.png"
 import aboutImg3 from "../../images/about/about-deo.png"
 
 import awardImg from "../../images/about/kemendag.webp"
@@ -15,7 +13,6 @@ import awardImg5 from "../../images/about/ken.webp"
 
 import shape1 from "../../images/about/about-shape-1.png"
 import shape2 from "../../images/about/about-shape-2.png"
-import shape3 from "../../images/about/about-shape-3.png"
 
 const AboutUs = () => {
   return (

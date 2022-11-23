@@ -7,10 +7,8 @@ import clientImg1 from "../../images/reviews/reviews-1.png"
 import clientImg2 from "../../images/reviews/reviews-2.png"
 import clientImg3 from "../../images/reviews/reviews-3.png"
 import videoThumbImg from "../../images/choose/choose-7.jpg"
-import video from "../../images/choose/testimoni.mp4"
 
 import shapeImg1 from "../../images/choose/choose-shape-3.png"
-import shapeImg2 from "../../images/about/about-shape-3.png"
 
 import clientReviewBigImg from "../../images/reviews/reviews-img-4.png"
 

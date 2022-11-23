@@ -119,9 +119,8 @@ const Footer = () => {
                 <h3>Get In Touch</h3>
                 <ul>
                   <li>
-                    <a href="tel:+12023459999">
                       <i className="flaticon-whatsapp"></i> +62 8594 5123 233
-                    </a>
+                    
                   </li>
                   {/* <li>
                     <a href="mailto:support@Klane.com">
