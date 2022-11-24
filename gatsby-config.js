@@ -14,6 +14,13 @@ module.exports = {
         sv: 6,
       },
       },
+    {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "GTM-K7MCQKP",
+        includeInDevelopment: false,
+      },
+    },
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
