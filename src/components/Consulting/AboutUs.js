@@ -1,9 +1,8 @@
 import * as React from "react"
-import { Link } from "gatsby"
 import { Swiper, SwiperSlide } from "swiper/react"
 import { Navigation, Pagination, Mousewheel } from "swiper"
 
-import aboutImg3 from "../../images/about/about-deo.png"
+import aboutImg3 from "../../images/about/about-deo.webp"
 
 import awardImg from "../../images/about/kemendag.webp"
 import awardImg2 from "../../images/about/stan.webp"

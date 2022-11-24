@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import FsLightbox from "fslightbox-react"
 import { Link } from "gatsby"
 
-import videoThumbImg from "../../images/choose/choose-me.png"
+import videoThumbImg from "../../images/choose/choose-me.webp"
 
 const WhyChooseUs = () => {
   const [toggler, setToggler] = useState(false)
