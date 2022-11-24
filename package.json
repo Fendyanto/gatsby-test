@@ -7,7 +7,7 @@
   "dependencies": {
     "aos": "^2.3.4",
     "fslightbox-react": "^1.6.2-2",
-    "gatsby": "^4.21.1",
+    "gatsby": "^5.1.0",
     "gatsby-plugin-google-tagmanager": "^5.1.0",
     "gatsby-plugin-hotjar": "^1.1.1",
     "gatsby-plugin-image": "^2.21.0",
