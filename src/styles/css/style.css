@@ -3478,11 +3478,11 @@ Go To Top Style
   cursor: pointer;
   bottom: 20px;
   right: 20px;
-  background-color: #0797ff;
+  background-color: #25d366;
   z-index: 9999;
-  width: 40px;
+  width: 55px;
   text-align: center;
-  height: 40px;
+  height: 55px;
   line-height: 40px;
   border-radius: 100%;
   -webkit-transition: .9s;
@@ -3525,7 +3525,7 @@ Go To Top Style
   color: #ffffff;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  font-size: 22px;
+  font-size: 35px;
 }
 
 .go-top:hover {

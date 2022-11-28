@@ -7,6 +7,7 @@
 
 import * as React from "react"
 import ScrollToTop from "./ScrollToTop"
+import Whatsapp from "./Whatsapp"
 import AOS from "aos";
 
 const Layout = ({ children }) => {
@@ -17,7 +18,7 @@ const Layout = ({ children }) => {
     <>
       {children}
 
-      <ScrollToTop />
+      <Whatsapp />
     </>
   )
 }
