@@ -65,7 +65,7 @@ const RecentProjects = () => {
                         <i className="flaticon-artificial-intelligence"></i>
                       </div>
                       <Link to="https://drive.google.com/file/d/1uqTRAfoI6dTyp0m77LN3jCOvx3dEEzVs/preview" className="download-btn" target="_blank">
-                      Validitas & Reabilitas{" "}
+                      Validitas & Reliabilitas{" "}
                         <i className="flaticon-downloading"></i>
                       </Link>
                     </li>
@@ -95,7 +95,7 @@ const RecentProjects = () => {
                         <i className="flaticon-artificial-intelligence"></i>
                       </div>
                       <Link to="https://drive.google.com/file/d/1BfFgW1vL5b_4ATefzOMN3cQ-xMfT3MVt/preview" className="download-btn" target="_blank">
-                      T-Tes{" "}
+                      T-Test{" "}
                         <i className="flaticon-downloading"></i>
                       </Link>
                     </li>

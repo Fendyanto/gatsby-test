@@ -1,7 +1,9 @@
 import * as React from "react"
 
 import teamImg1 from "../../images/team/team2.webp"
-import teamImg3 from "../../images/team/team1.webp"
+import teamImg2 from "../../images/team/team1.webp"
+import teamImg3 from "../../images/team/team3.webp"
+import teamImg4 from "../../images/team/team4.webp"
 
 const OurTeam = () => {
   return (
@@ -24,7 +26,7 @@ const OurTeam = () => {
               <div className="consulting-team-card">
                 <img src={teamImg1} alt="Image" />
                 <div className="team-content">
-                  <h3>Deo Dedianto</h3>
+                  <h3>Deo</h3>
                   <p>IT Support</p>
                 </div>
                 {/* <div className="social-links">
@@ -62,9 +64,9 @@ const OurTeam = () => {
               data-aos-once="true"
             >
               <div className="consulting-team-card">
-                <img src={teamImg3} alt="Image" />
+                <img src={teamImg2} alt="Image" />
                 <div className="team-content">
-                  <h3>Lukman Huq Siregar</h3>
+                  <h3>Lukman</h3>
                   <p>Customer Support</p>
                 </div>
                 {/* <div className="social-links">
@@ -94,7 +96,7 @@ const OurTeam = () => {
               </div>
             </div>
 
-            {/* <div
+            <div
               className="col-lg-4 col-md-6"
               data-aos="fade-up"
               data-aos-duration="1200"
@@ -104,10 +106,10 @@ const OurTeam = () => {
               <div className="consulting-team-card">
                 <img src={teamImg3} alt="Image" />
                 <div className="team-content">
-                  <h3>Roman Veniamin</h3>
-                  <p>Business Consultant</p>
+                  <h3>Aris</h3>
+                  <p>Statistical Analyst</p>
                 </div>
-                <div className="social-links">
+                {/* <div className="social-links">
                   <ul>
                     <li>
                       <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
@@ -130,9 +132,51 @@ const OurTeam = () => {
                       </a>
                     </li>
                   </ul>
-                </div>
+                </div> */}
               </div>
-            </div> */}
+            </div>
+
+            <div
+              className="col-lg-4 col-md-6"
+              data-aos="fade-up"
+              data-aos-duration="1200"
+              data-aos-delay="600"
+              data-aos-once="true"
+            >
+              <div className="consulting-team-card">
+                <img src={teamImg4} alt="Image" />
+                <div className="team-content">
+                  <h3>Rahmat</h3>
+                  <p>Statistical Analyst</p>
+                </div>
+                {/* <div className="social-links">
+                  <ul>
+                    <li>
+                      <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+                        <i className="flaticon-facebook-1"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+                        <i className="flaticon-twitter-3"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://google.com" target="_blank" rel="noreferrer">
+                        <i className="flaticon-google-plus"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://linkedin.com/?lang=en" target="_blank" rel="noreferrer">
+                        <i className="flaticon-linkedin-1"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div> */}
+              </div>
+            </div>
+
+
           </div>
         </div>
       </div>
