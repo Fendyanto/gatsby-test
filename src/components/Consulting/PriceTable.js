@@ -22,7 +22,7 @@ const PriceTable = () => {
                   <TabPanel>
                     <div className="row justify-content-center">
                       <div
-                        className="col-lg-4 col-sm-6"
+                        className="col-lg-4 col-sm-4"
                         data-aos="zoom-in-down"
                         data-aos-duration="1200"
                         data-aos-delay="200" 
@@ -59,7 +59,51 @@ const PriceTable = () => {
                       </div>
 
                       <div
-                        className="col-lg-4 col-sm-6"
+                        className="col-lg-4 col-sm-4"
+                        data-aos="zoom-in-down"
+                        data-aos-duration="1200"
+                        data-aos-delay="600" 
+                        data-aos-once="true"
+                      >
+                        <div className="single-pricing-box">
+                          <div className="pricing-content">
+                            <h3>Standard</h3>
+                            <h1>Mulai Rp. 500.000</h1>
+
+                            <div className="pricing-list">
+                              <ul>
+                                <li>
+                                  <i className="flaticon-check"></i>
+                                  Olah Data
+                                </li>
+                                <li>
+                                  <i className="flaticon-check"></i>
+                                  Interpretasi Hasil
+                                </li>
+                                <li>
+                                  <i className="flaticon-check"></i>
+                                  Gratis Konsultasi
+                                </li>
+                                <li>
+                                  <i className="flaticon-check"></i>
+                                  <strong>Gratis Revisi</strong>
+                                </li>
+                                <li>
+                                  <i className="flaticon-check"></i>
+                                  <strong>Analisis Deskriptif</strong>
+                                </li>
+                              </ul>
+                            </div>
+
+                            <Link to="https://wa.me/6285945123233?text=Halo ReStat, Pengen Paket Standard" className="pricing-btn">
+                              Get Started
+                            </Link>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div
+                        className="col-lg-4 col-sm-4"
                         data-aos="zoom-in-down"
                         data-aos-duration="1200"
                         data-aos-delay="400" 
@@ -110,50 +154,7 @@ const PriceTable = () => {
                           <span className="popular">Best Deal</span>
                         </div>
                       </div>
-
-                      <div
-                        className="col-lg-4 col-sm-6"
-                        data-aos="zoom-in-down"
-                        data-aos-duration="1200"
-                        data-aos-delay="600" 
-                        data-aos-once="true"
-                      >
-                        <div className="single-pricing-box">
-                          <div className="pricing-content">
-                            <h3>Standard</h3>
-                            <h1>Mulai Rp. 500.000</h1>
-
-                            <div className="pricing-list">
-                              <ul>
-                                <li>
-                                  <i className="flaticon-check"></i>
-                                  Olah Data
-                                </li>
-                                <li>
-                                  <i className="flaticon-check"></i>
-                                  Interpretasi Hasil
-                                </li>
-                                <li>
-                                  <i className="flaticon-check"></i>
-                                  Gratis Konsultasi
-                                </li>
-                                <li>
-                                  <i className="flaticon-check"></i>
-                                  <strong>Gratis Revisi</strong>
-                                </li>
-                                <li>
-                                  <i className="flaticon-check"></i>
-                                  <strong>Analisis Deskriptif</strong>
-                                </li>
-                              </ul>
-                            </div>
-
-                            <Link to="https://wa.me/6285945123233?text=Halo ReStat, Pengen Paket Standard" className="pricing-btn">
-                              Get Started
-                            </Link>
-                          </div>
-                        </div>
-                      </div>
+                      
                     </div>
                   </TabPanel>
 
